@@ -1,0 +1,4 @@
+﻿  grasslands.cpp
+d:\work\projects\textfight\textfight\grasslands\grasslands.cpp(581): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  TextFight.vcxproj -> D:\work\projects\TextFight\Debug\TextFight.exe
+  TextFight.vcxproj -> D:\work\projects\TextFight\Debug\TextFight.pdb (Full PDB)
